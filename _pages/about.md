@@ -6,7 +6,7 @@ excerpt: ""
 sitemap: false
 permalink: /about/
 ---
-
+<img float="right" src="shannon-photo-3.jpg">
 <p>I graduated from the University of South Carolina Honors College in May 2016 with 
 a B.S. in Computer Science and minors in Math and German. I'm currently 
 getting my Master's while working as a research assistant in the 

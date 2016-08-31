@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Shannon Hood's Portfolio"
+title                    : "Shannon Hood"
 title_separator          : "-"
 name                     : "Shannon Hood"
 description              : "An amazing website."
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Shannon Hood"
   avatar           : "shannon-photo-1.jpg"
-  bio              : "Freshly minted UofSC Honors graduate with an interest in Robotics, web design, and powerlifting."
+  bio              : "Freshly minted UofSC Honors graduate with an interest in robotics, web design, and powerlifting."
   location         : "Columbia, SC"
   email            : "hoodsr@email.sc.edu"
   uri              :

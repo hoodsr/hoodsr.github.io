@@ -10,7 +10,7 @@ permalink: /about/
 <div id="be-a-good-pic" style="overflow: auto;">
 
 <p>
-<img style="float: right;" src="../images/shannon-photo-3.jpg" width="200px">
+<img style="float: right;" src="../images/shannon-photo-3.jpg" width="250px">
 
 I graduated from the University of South Carolina Honors College in May 2016 with 
 a B.S. in Computer Science and minors in Math and German. I'm currently 

@@ -78,8 +78,12 @@ analytics:
 # Site Author
 author:
   name             : "Shannon Hood"
-  avatar           : "images/hoodsr.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "bio-photo.jpg"
+  bio              : "I graduated from the University of South Carolina in May 2016 with 
+                    a B.S. in Computer Science and minors in Math and German. I'm currently 
+                    getting my Master's while working as a research assistant in the Autonomous 
+                    Field Robotics Lab (AFRL) and as an Intro to Java TA. I have previously 
+                    interned at Boeing and worked as a web developer."
   location         : "Columbia, SC"
   email            : "hoodsr@email.sc.edu"
   uri              :
@@ -87,9 +91,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           :
+  github           : https://github.com/hoodsr
   google_plus      :
   keybase          :
   instagram        :

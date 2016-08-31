@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Portfolio"
+title                    : "Shannon Hood"
 title_separator          : "-"
 name                     : "Shannon Hood"
 description              : "An amazing website."
 url                      : "https://hoodsr.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "hoodsr/hoodsr/hoodsr.github.io"
+repository               : "hoodsr/hoodsr.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : https://github.com/hoodsr
+  github           : hoodsr
   google_plus      :
   keybase          :
   instagram        :

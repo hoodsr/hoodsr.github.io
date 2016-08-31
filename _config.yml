@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "Shannon Hood"
-title_separator          : "-"
+title_separator          : "/"
 name                     : "Shannon Hood"
 description              : "An amazing website."
 url                      : "https://hoodsr.github.io"

@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 excerpt: ""
 sitemap: false
-permalink: /projects/
+permalink: /portfolio/
 ---
 
 Coming soon

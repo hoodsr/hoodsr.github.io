@@ -16,8 +16,8 @@ I graduated from the University of South Carolina Honors College in May 2016 wit
 a B.S. in Computer Science and minors in Math and German. I'm currently 
 getting my Master's while working as a research assistant in the 
 <a href="http://afrl.cse.sc.edu/afrl/home/">Autonomous 
-Field Robotics Lab (AFRL)</a> and as an Introduction to Java TA (CSCE 145). 
-My Master's thesis is on Unmanned Aerial and Unmanned Ground Vehicle cooperative exploration and mapping, and is a continuation of the Bird's eye View project.</p>
+Field Robotics Lab (AFRL)</a> and as an CSCE 145 Introduction to Java TA. 
+My Master's thesis is on Unmanned Aerial and Unmanned Ground Vehicle cooperative exploration and mapping, and is a continuation of the Bird's Eye View project.</p>
 
 
 

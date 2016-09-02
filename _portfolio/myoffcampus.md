@@ -24,4 +24,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-<a href="/">Project Summary</a>
+<a href="../files/myoffcampus-report.pdf">Project Summary</a>

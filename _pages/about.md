@@ -22,5 +22,5 @@ My Master's thesis is on Unmanned Aerial and Unmanned Ground Vehicle cooperative
 
 
 
-<p>I have previously interned at Boeing as a Software Engineer where I developed the Web SMT, which can be used to load software onto airplanes. I have also worked as a web developer for the Second Pillar consulting company.</p>
+<p>I have previously interned at Boeing as a Software Engineer where I developed the webSMT, which can be used to load software onto airplanes. I have also worked as a web developer for the Second Pillar consulting company.</p>
 </div>

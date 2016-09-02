@@ -1,17 +1,17 @@
 ---
-title: "MyOffCampus"
-excerpt: "This **app** allows students to rate and review landlords and properties, search for somewhere they are thinking about living, or save a landlord or location they are interested in for later."
+title: "webSMT"
+excerpt: "Using **ROS**, `tum_ardone`, `ar_track_alvar` and hand-written code, a **TurtleBot 2** and an **AR.Drone Parrot 2.0** team up to explore and map the surrounding environment."
 author_profile: false
 header:
-  image: myoffcampus-1.png
-  teaser: myoffcampus-1.png
+  image: birds-eye-view-1..jpg
+  teaser: birds-eye-view-1.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: boeing-logo.jpg
     image_alt: "logo"
-    text: "Team Lead"
+    text: "Software Developer Intern"
   - title: "Responsibilities"
-    text: "Developed both the front and back and of an Ionic app, managed the team, and communicated regularly with business partners."
+    text: "rone control, networking"
 gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg

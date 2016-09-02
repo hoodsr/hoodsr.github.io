@@ -11,6 +11,7 @@ permalink: /about/
 <p>
 <img style="float: right; padding-left: 10px;" src="../images/shannon-photo-3.jpg" width="250px">
 
+<p><a href="../files/resume1.pdf">Resume</a></p>
 I graduated Magna Cum Laude from the <a href="http://schc.sc.edu/">University of South Carolina Honors College</a> in May 2016 with 
 a B.S. in Computer Science and minors in Math and German. I'm currently 
 getting my Master's while working as a research assistant in the 

@@ -11,7 +11,7 @@ sidebar:
     image_alt: "Boeing Logo"
     text: "Software Developer Intern"
   - title: "Responsibilities"
-    text: "Make web app"
+    text: "I developed a web-based application with a local server to load software parts onto airplanes and sync with the Librarian, a database of usable parts. I also implemented Java database methods and a Backbone.js & HTML/CSS UI."
 gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg

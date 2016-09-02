@@ -1,6 +1,6 @@
 ---
 title: "MyOffCampus"
-excerpt: "This app allows students to rate and review landlords and properties, search for somewhere they are thinking about living, or save a landlord or location they are interested in for later."
+excerpt: "This app allows students to review landlords and properties, search for somewhere they're interested in living, or save a landlord or location for later."
 author_profile: false
 header:
   image: myoffcampus-1.png
@@ -11,7 +11,7 @@ sidebar:
     image_alt: "logo"
     text: "Team Lead"
   - title: "Responsibilities"
-    text: "Developed both the front and back and of an Ionic app, managed the team, and communicated regularly with business partners."
+    text: "Developed both the front and backend of an Ionic app, managed the team, and communicated regularly with business partners."
 gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg
@@ -24,5 +24,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-test
-
+<a href="/">Project Summary</a>

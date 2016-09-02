@@ -8,7 +8,7 @@ header:
 sidebar:
   - title: "Role"
     image: boeing-logo.jpg
-    image_alt: "logo"
+    image_alt: "Boeing Logo"
     text: "Software Developer Intern"
   - title: "Responsibilities"
     text: "rone control, networking"

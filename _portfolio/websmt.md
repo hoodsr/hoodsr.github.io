@@ -11,7 +11,7 @@ sidebar:
     image_alt: "Boeing Logo"
     text: "Software Developer Intern"
   - title: "Responsibilities"
-    text: "rone control, networking"
+    text: "Make web app"
 gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg

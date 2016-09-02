@@ -7,7 +7,7 @@ permalink: /about/
 ---
 
 <div id="be-a-good-pic" style="overflow: auto;">
-<a href="../files/resume1.pdf">Resume</a><br />
+<a href="../files/resume1.pdf">Resume</a><br /><br />
 
 <p>
 <img style="float: right; padding-left: 10px;" src="../images/shannon-photo-3.jpg" width="250px">

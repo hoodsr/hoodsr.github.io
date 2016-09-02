@@ -1,6 +1,6 @@
 ---
 title: "Simple C Compiler"
-excerpt: "A compiler for basic C code written in C, flex, and bison. This compiler is able to process global variable declarations, function definitions, expression statements, and control statements."
+excerpt: "A compiler for basic C code written in C, flex, and bison. This compiler is able to process global variable declarations, function definitions, expression statements, & control statements."
 author_profile: false
 header:
   image: simple-compiler-1.jpg

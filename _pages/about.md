@@ -1,13 +1,14 @@
 ---
 title: "About Me"
 layout: single
-excerpt: ""
+excerpt: "Freshly minted UofSC Honors graduate with an interest in robotics, web design, and powerlifting."
 sitemap: false
 permalink: /about/
 ---
 
 <div id="be-a-good-pic" style="overflow: auto;">
-<a href="../files/resume1.pdf">Resume</a><br /><br />
+
+<p><a href="../files/resume1.pdf">Resume</a></p>
 
 <p>
 <img style="float: right; padding-left: 10px;" src="../images/shannon-photo-3.jpg" width="250px">

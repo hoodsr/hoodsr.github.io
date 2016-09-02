@@ -1,7 +1,6 @@
 ---
 title: "About Me"
 layout: single
-author_profile: true
 excerpt: ""
 sitemap: false
 permalink: /about/

@@ -1,6 +1,5 @@
 ---
 title: "MyOffCampus"
-permalink: /portfolio/myoffcampus
 excerpt: "This **app** allows students to rate and review landlords and properties, search for somewhere they are thinking about living, or save a landlord or location they are interested in for later."
 header:
   image: foo-bar-identity.jpg

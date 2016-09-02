@@ -3,7 +3,7 @@ title: "Bird's Eye View"
 excerpt: "Using ROS, tum_ardone, ar_track_alvar and hand-written code, a TurtleBot 2 and an AR.Drone Parrot 2.0 team up to explore and map the surrounding environment."
 author_profile: false
 header:
-  image: birds-eye-view-1.jpg
+  image: birds-eye-view-2.jpg
   teaser: birds-eye-view-1.jpg
 sidebar:
   - title: "Role"

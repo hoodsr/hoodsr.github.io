@@ -3,7 +3,7 @@ title: "Simple C Compiler"
 excerpt: "A compiler for basic C code written in **C**, **flex**, and **bison**. This compiler is capable of processing global variable declarations, function definitions and expression statements, and control statements."
 author_profile: false
 header:
-  image: foo-bar-identity.jpg
+  image: simple-compiler-1.jpg
   teaser: simple-compiler-1.jpg
 sidebar:
   - title: "Role"

@@ -11,7 +11,7 @@ sidebar:
     image_alt: "logo"
     text: "Research Assistant"
   - title: "Responsibilities"
-    text: "Drone control, networking"
+    text: "I worked primarily with the AR.Drone and was in charge of state estimation. I also configured the network on which the robots communicate."
 gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg

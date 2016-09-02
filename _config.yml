@@ -187,11 +187,11 @@ defaults:
       author_profile: true
   # _portfolio
   - scope:
-      path: ""
+     # path: ""
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       
 # Sass/SCSS

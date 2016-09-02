@@ -1,6 +1,6 @@
 ---
 title: "MyOffCampus"
-excerpt: "This **app** allows students to rate and review landlords and properties, search for somewhere they are thinking about living, or save a landlord or location they are interested in for later."
+excerpt: "This app allows students to rate and review landlords and properties, search for somewhere they are thinking about living, or save a landlord or location they are interested in for later."
 author_profile: false
 header:
   image: myoffcampus-1.png

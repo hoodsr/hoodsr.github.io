@@ -1,6 +1,6 @@
 ---
 title: "Bird's Eye View"
-excerpt: "Using **ROS**, `tum_ardone`, `ar_track_alvar` and hand-written code, a **TurtleBot 2** and an **AR.Drone Parrot 2.0** team up to explore and map the surrounding environment."
+excerpt: "Using ROS, tum_ardone, ar_track_alvar and hand-written code, a TurtleBot 2 and an AR.Drone Parrot 2.0 team up to explore and map the surrounding environment."
 author_profile: false
 header:
   image: birds-eye-view-1..jpg
@@ -11,7 +11,7 @@ sidebar:
     image_alt: "logo"
     text: "Research Assistant"
   - title: "Responsibilities"
-    text: "rone control, networking"
+    text: "Drone control, networking"
 gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg

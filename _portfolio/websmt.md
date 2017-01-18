@@ -24,5 +24,5 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-test
+More information coming soon
 

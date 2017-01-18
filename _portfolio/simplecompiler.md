@@ -21,4 +21,4 @@ variable declarations, functions, and control &amp; expression statements into a
 
 <h2>Participants</h2>
 
-Shannon Hood and Kelly Benson
+Shannon Hood and Kelly Benson.

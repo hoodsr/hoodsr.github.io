@@ -7,11 +7,11 @@ header:
   teaser: myoffcampus-1.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    image: usc-logo.png
+    image_alt: "USC Logo"
     text: "Team Lead"
   - title: "Responsibilities"
-    text: "Developed both the front and backend of an Ionic app, managed the team, and communicated regularly with business partners."
+    text: "Developed both the front and backend of an Ionic &amp; Parse app, managed the team, and communicated regularly with business partners."
 gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg
@@ -25,3 +25,7 @@ gallery:
 ---
 
 <a href="../../files/myoffcampus-report.pdf">Project Summary</a>
+
+<h2>Participants</h2>
+
+Shannon Hood, Kelly Benson, and Ming Wong.

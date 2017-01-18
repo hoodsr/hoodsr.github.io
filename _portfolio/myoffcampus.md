@@ -11,7 +11,7 @@ sidebar:
     image_alt: "USC Logo"
     text: "Team Lead"
   - title: "Responsibilities"
-    text: "Developed both the front and backend of an Ionic &amp; Parse app, managed the team, and communicated regularly with business partners."
+    text: "Developed both the front and backend of an Ionic & Parse app, managed the team, and communicated regularly with business partners."
 gallery:
   - url: unsplash-gallery-image-1.jpg
     image_path: unsplash-gallery-image-1-th.jpg

@@ -19,10 +19,16 @@
     &:hover {
       opacity: 1;
     }
+    img {
+      width: 50%;
+    }
   }
 
   @include breakpoint($x-large) {
     padding-right: 0;
+    img {
+      width: 100%;
+    }
   }
 
   h2, h3, h4, h5, h6 {
@@ -41,7 +47,7 @@
   }
 
   img {
-    width: 50%;
+    width: 200px;
   }
 }
 

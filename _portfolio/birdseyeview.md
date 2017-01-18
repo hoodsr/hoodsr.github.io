@@ -13,13 +13,13 @@ sidebar:
   - title: "Responsibilities"
     text: "I worked primarily with the AR.Drone and was in charge of state estimation. I also configured the network on which the robots communicate."
 gallery:
-  - url: unsplash-gallery-image-1.jpg
+  - url: birds-eye-slides-2.jpg
     image_path: unsplash-gallery-image-1-th.jpg
     alt: "PTAM camera view"
-  - url: unsplash-gallery-image-2.jpg
+  - url: birds-eye-slides-1.jpg
     image_path: unsplash-gallery-image-2-th.jpg
     alt: "Photo of the TurtleBot tag"
-  - url: unsplash-gallery-image-3.jpg
+  - url: birds-eye-slides-3.jpg
     image_path: unsplash-gallery-image-3-th.jpg
     alt: "Action photo"
 ---

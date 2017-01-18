@@ -3,8 +3,7 @@ title: "webSMT"
 excerpt: "Using **ROS**, `tum_ardone`, `ar_track_alvar` and hand-written code, a **TurtleBot 2** and an **AR.Drone Parrot 2.0** team up to explore and map the surrounding environment."
 author_profile: false
 header:
-  image: birds-eye-view-1.jpg
-  teaser: birds-eye-view-1.jpg
+  teaser: bpeing-logo.jpg
 sidebar:
   - title: "Role"
     image: boeing-logo.jpg

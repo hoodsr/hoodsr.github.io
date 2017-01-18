@@ -3,7 +3,7 @@ title: "MyOffCampus"
 excerpt: "This app allows students to review landlords and properties, search for somewhere they're interested in living, or save a landlord or location for later."
 author_profile: false
 header:
-  image: myoffcampus-1.png
+  image: myoffcampus-2.png
   teaser: myoffcampus-1.png
 sidebar:
   - title: "Role"

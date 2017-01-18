@@ -59,6 +59,9 @@
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
   }
+  img {
+    max-width: 50%;
+  }
 }
 
 /*

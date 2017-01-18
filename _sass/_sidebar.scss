@@ -41,7 +41,7 @@
   }
 
   img {
-    width: 100%;
+    width: 50%;
   }
 }
 
@@ -58,9 +58,6 @@
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
-  }
-  img {
-    max-width: 50%;
   }
 }
 

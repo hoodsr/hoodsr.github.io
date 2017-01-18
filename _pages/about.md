@@ -8,7 +8,7 @@ permalink: /about/
 
 <div id="be-a-good-pic" style="overflow: auto;">
 
-<p><a href="../files/resume1.pdf">Resume</a></p>
+<p><a href="../files/01-17-17-hood-shannon.pdf">Resume</a></p>
 
 <p>
 <img style="float: right; padding-left: 10px;" src="../images/shannon-photo-3.jpg" width="250px">

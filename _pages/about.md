@@ -8,16 +8,16 @@ permalink: /about/
 
 <div id="be-a-good-pic" style="overflow: auto;">
 
-<p><a href="../files/01-17-17-hood-shannon.pdf">Resume</a></p>
+<p><a href="../files/01-17-17-hood-shannon.pdf">Resume</a>
 
-<p>
+<br>
 <img style="float: right; padding-left: 10px;" src="../images/shannon-photo-3.jpg" width="250px">
 
 I graduated Magna Cum Laude from the <a href="http://schc.sc.edu/">University of South Carolina Honors College</a> in May 2016 with 
 a B.S. in Computer Science and minors in Math and German. I'm currently 
 getting my Master's while working as a research assistant in the 
 <a href="http://afrl.cse.sc.edu/afrl/home/">Autonomous 
-Field Robotics Lab (AFRL)</a> under the supervision of Dr. <a href="https://cse.sc.edu/~yiannisr/">Ioannis Rekleitis</a> and as an CSCE 145 Introduction to Java TA. 
+Field Robotics Lab (AFRL)</a> under the supervision of Dr. <a href="https://cse.sc.edu/~yiannisr/">Ioannis Rekleitis</a> and as an CSCE 145 &amp; 146 Algorithmic Design TA. 
 My Master's thesis is on Unmanned Aerial and Unmanned Ground Vehicle cooperative exploration and mapping, and is a continuation of the Bird's Eye View project.</p>
 
 

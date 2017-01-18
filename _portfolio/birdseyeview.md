@@ -8,7 +8,7 @@ header:
 sidebar:
   - title: "Role"
     image: usc-logo.png
-    image_alt: "logo"
+    image_alt: "USC Logo"
     text: "Research Assistant"
   - title: "Responsibilities"
     text: "I worked primarily with the AR.Drone and was in charge of state estimation. I also configured the network on which the robots communicate."

@@ -13,8 +13,8 @@ sidebar:
   - title: "Responsibilities"
     text: "I worked primarily with the AR.Drone and was in charge of state estimation. I also configured the network on which the robots communicate."
 gallery:
-  - url: birds-eye-slides-2.jpg
-    image_path:  birds-eye-slides-2-th.jpg
+  - url: birds-eye-slides-2.png
+    image_path:  birds-eye-slides-2-th.png
     alt: "PTAM camera view"
   - url: birds-eye-slides-3.jpg
     image_path:  birds-eye-slides-3-th.jpg

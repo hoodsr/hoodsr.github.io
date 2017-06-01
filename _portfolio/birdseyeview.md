@@ -31,7 +31,8 @@ gallery:
     title: "Shows the pose of the UAV using CL in pink and the UGV in blue"
   - url: birds-eye-slides-4.png
     image_path:  birds-eye-slides-4-th.png
-    alt: "title: "Shows the pose of the UAV in blue using CL, the pose of the UAV using scaled ORB-SLAM in green, and the UGV in pink""  
+    alt: "Swearingen results w/ ORB-SLAM"
+    title: "Shows the pose of the UAV in blue using CL, the pose of the UAV using scaled ORB-SLAM in green, and the UGV in pink"
 ---
 
 {% include gallery caption="Photos of results and of the robots in action." %}

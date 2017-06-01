@@ -31,6 +31,7 @@ gallery:
   - url: birds-eye-slides-6.png
     image_path:  birds-eye-slides-6-th.png
     alt: "Swearingen results w/o ORB-SLAM"
+    title: "Shows the pose of the UAV in pink and the UGV in blue"
 ---
 
 {% include gallery caption="Photos of results and of the robots in action." %}
@@ -38,9 +39,10 @@ gallery:
 <h2>Summary</h2>
 <p>This paper proposes a solution to the problem of cooperative exploration using an Unmanned Ground Vehicle (UGV) and an Unmanned Aerial Vehicle (UAV). More specifically, the UGV navigates through the free space, and the UAV provides enhanced situational awareness via its higher vantage point. The motivating application is search and rescue in a damaged building. A camera atop the UGV is used to track a fiducial tag on the underside of the UAV, allowing the UAV to maintain a fixed pose relative to the UGV. Furthermore, the UAV uses its front facing camera to provide a birds-eye-view to the remote operator, allowing for observation beyond obstacles that obscure the UGV's sensors. The proposed approach has been tested using a TurtleBot 2 equipped with a Hokuyo laser ranger finder and a Parrot Bebop 2. Experimental results demonstrate the feasibility of this approach. This work is based on several open source packages and the generated code is available on-line <a href="http://github.com/hoodsr/birds-eye-view">here</a>.</p>
 
+Hood, Benson, Hamod, Madison, O'Kane & Rekleitis. (2017). <i>Bird's Eye View: Cooperative Exploration By UGV and UAV</i>. Paper presented at ICUAS 2017.
 <!--<h2>Additional Information</h2>-->
 
 
 <h2>Participants</h2>
 
-Shannon Hood, Kelly Benson, Patrick Hamod, Daniel Madison, and Ioannis Rekleitis.
+Shannon Hood, Kelly Benson, Patrick Hamod, Daniel Madison, Jason M. O'Kane, and Ioannis Rekleitis.

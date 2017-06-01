@@ -11,17 +11,23 @@ sidebar:
     image_alt: "USC Logo"
     text: "Research Assistant"
   - title: "Responsibilities"
-    text: "I redesigned the system from the network up to allow for more robust communication, tag tracking, and effective navigation. I implemented cooperative localization and scaled ORB-SLAM 2 to provide pose estimates of the UAV"
+    text: "I redesigned the system from the network up to allow for more robust communication, tag tracking, and effective navigation. I implemented cooperative localization and scaled ORB-SLAM 2 to provide pose estimates of the UAV."
 gallery:
   - url: birds-eye-slides-2.png
     image_path:  birds-eye-slides-2-th.png
     alt: "ORB-SLAM 2 camera view"
-  - url: birds-eye-slides-3.png
-    image_path:  birds-eye-slides-3-th.png
-    alt: "View from the TurtleBot's camera"
+  - url: birds-eye-slides-3.jpg
+    image_path:  birds-eye-slides-3-th.jpg
+    alt: "Action photo"
   - url: birds-eye-slides-1.jpg
     image_path:  birds-eye-slides-1-th.jpg
-    alt: "Action photo"
+    alt: "View from the TurtleBot's camera"
+  - url: birds-eye-slides-4.jpg
+    image_path:  birds-eye-slides-4-th.jpg
+    alt: "Bebop with tag placed on the bottom"  
+  - url: birds-eye-slides-5.jpg
+    image_path:  birds-eye-slides-5-th.jpg
+    alt: "TurtleBot setup"
 ---
 
 {% include gallery caption="Photos of the robots in action." %}
